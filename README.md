@@ -7,6 +7,8 @@ Nimora contient un bloqueur de publicité customisé. Il bloque et supprime tout
 
 Si vous connaissez des sites qui ont des autre langages, contacter moi sur discord, L'invite discord: https://discord.gg/2qyV6uFGXd (Si vous essayer de me faire ajouter un site web douteux, je refuserai et je vous ban sur le champ.)
 
+Note: Nimora n'est PAS open source, j'essaye donc d'être le plus transparent possible à propos de l'app.
+
 ## English version of the read me
 
 # Nimora
@@ -20,3 +22,5 @@ If you click on the English language option, you'll be redirected to HiAnime, wh
 Nimora includes a custom ad blocker. It deletes all ads possible from websites, and also blocks redirections, either coming from hidden ads or a ad that went through the adblock. This means you don't need to install an additional ad blocker, as one is already built into the application.
 
 If you know some websites that have other languages to add in this application, contact me on discord, Discord invite: https://discord.gg/2qyV6uFGXd (If you try to get me to add a suspicious website, I will refuse and ban you immediately.)
+
+Note: Nimora is NOT Open-Source, but in exchange i am trying to be as transparent as possible the app.
