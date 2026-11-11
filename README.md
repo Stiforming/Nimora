@@ -7,7 +7,7 @@ Nimora contient un bloqueur de publicité customisé. Il bloque et supprime tout
 
 Si vous connaissez des sites qui ont des autre langages, contacter moi sur discord, L'invite discord: https://discord.gg/2qyV6uFGXd (Si vous essayer de me faire ajouter un site web douteux, je refuserai et je vous ban sur le champ.)
 
-Note: Nimora n'est PAS open source, j'essaye donc d'être le plus transparent possible à propos de l'app.
+Note: Nimora n'est PAS open source, j'essaye donc d'être le plus transparent possible à propos de l'app. Si jamais j'abandonne le projet pour X raison, je mettrais le projet en open source car je trouve que il y a du potential la dessus.
 
 ## English version of the read me
 
@@ -23,4 +23,4 @@ Nimora includes a custom ad blocker. It deletes all ads possible from websites, 
 
 If you know some websites that have other languages to add in this application, contact me on discord, Discord invite: https://discord.gg/2qyV6uFGXd (If you try to get me to add a suspicious website, I will refuse and ban you immediately.)
 
-Note: Nimora is NOT Open-Source, but in exchange i am trying to be as transparent as possible the app.
+Note: Nimora is NOT Open-Source, but in exchange i am trying to be as transparent as possible the app. If ever i HAVE to abandon the project for whatever reasons, i will make the project open source because im sure it has potential.
