@@ -3,6 +3,8 @@ Nimora est une application faite pour les utilisateurs anglais/français qui ont
 
 Avec Nimora, vous pouvez juste ouvrir l'application et vous serez dirigé vers le site d'anime-sama actuel (l'officiel) comment savoir si c'est l'officiel? je visite anime-sama.pw ou bien je vais dans le serveur discord d'anime sama pour le chercher. Si vous cliquez sur le langage anglais (english) vous allez tomber sur hianime, qui semble être non officiel mais safe à l'usage. 
 
+Au démarrage, Nimora récupère les langues et les sites web configurés depuis le serveur, avec un délai d'attente de 4 secondes. Si cette requête échoue, Nimora peut utiliser un "catalogue" valide mis en cache dans %LOCALAPPDATA%\AniHub\cache.json, pendant une durée maximale de sept jours. Une petite notification pouvant être masquée apparaît alors sur les écrans de sélection et disparaît dès qu'un site web est ouvert.
+
 Nimora contient un bloqueur de publicité customisé. Il bloque et supprime toute pub, les pub caché (ce que vous ne voyez pas, mais aussi les pubs que vous voyez de toute façon) sont bloqué. Donc vous n'avez pas besoin d'installer un bloqueur de pub car il y en a un directement intégré a l'application.
 
 Si vous connaissez des sites qui ont des autre langages, contacter moi sur discord, L'invite discord: https://discord.gg/2qyV6uFGXd (Si vous essayer de me faire ajouter un site web douteux, je refuserai et je vous ban sur le champ.)
@@ -16,6 +18,8 @@ Note: Nimora n'est PAS open source, j'essaye donc d'être le plus transparent po
 Nimora is an application made for English and French-speaking users who are a little too lazy to search for the URLs of anime streaming websites such as Anime-Sama, HiAnime, etc.
 
 With Nimora, you can simply open the application and you'll be redirected to the current official Anime-Sama website. How do you know which one is official? I either visit anime-sama.pw or check the Anime-Sama Discord server to find the official website.
+
+At startup Nimora fetches the configured languages and websites from the server with a 4s timeout. If that request fails, Nimora can use a valid "catalog" cached in `%LOCALAPPDATA%\AniHub\cache.json` for up to seven days - a small dismissible notice appears on the selection screens and goes away when a website is opened.
 
 If you click on the English language option, you'll be redirected to HiAnime, which is an unofficial one but seems to be safe for usage.
 
