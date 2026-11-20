@@ -19,7 +19,7 @@ Note: Nimora n'est PAS open source, j'essaye donc d'être le plus transparent po
 
 Nimora is an application made for English and French-speaking users who are a little too lazy to search for the URLs of anime streaming websites such as Anime-Sama, HiAnime, etc.
 
-With Nimora, you can simply open the application and you'll be redirected to the current official Anime-Sama website. How do you know which one is official? I either visit anime-sama.pw or check the Anime-Sama Discord server to find the official website.
+With Nimora, you can simply open the application and you'll be redirected to the current official Anime-Sama website. How do you know which one is official? I either visit anime-sama.pw or check the Anime-Sama Discord server to find the official website. Here is the Demo: https://youtu.be/W3Hv_oe6FgY
 
 At startup Nimora fetches the configured languages and websites from the server with a 4s timeout. If that request fails, Nimora can use a valid "catalog" cached in `%LOCALAPPDATA%\AniHub\cache.json` for up to seven days - a small dismissible notice appears on the selection screens and goes away when a website is opened.
 
